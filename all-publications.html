@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>All publications</title>
+<link href="./style.css" rel="stylesheet"/>
+<style>
+.pub-wrap{ max-width: 980px; margin: 0 auto; padding: 26px 18px; }
+.pub-top{ display:flex; gap:14px; align-items:center; justify-content:space-between; flex-wrap:wrap; }
+.pub-top h1{ margin:0; font-size:28px; }
+.pub-actions{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+.pub-actions input{
+  padding:10px 12px; border-radius:10px; border:1px solid rgba(0,0,0,.14);
+  min-width: 260px;
+}
+.pub-actions select{
+  padding:10px 12px; border-radius:10px; border:1px solid rgba(0,0,0,.14);
+}
+a.back{
+  text-decoration:none;
+  padding:10px 12px;
+  border-radius:10px;
+  border:1px solid rgba(0,0,0,.14);
+  background:#fff;
+  color:#000;
+  line-height:1;
+}
+a.back:hover{
+  background: rgba(0,0,0,.04);
+}
+details.year{
+  margin-top:14px;
+  border-radius:12px;
+  border:1px solid rgba(0,0,0,.10);
+  background: rgba(255,255,255,.7);
+  overflow:hidden;
+}
+details.year > summary{
+  cursor:pointer;
+  list-style:none;
+  padding:12px 14px;
+  font-weight:700;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+details.year > summary::-webkit-details-marker{display:none;}
+.year-count{ font-weight:600; color:#555; }
+ol.pub-list{ margin:0; padding: 0 0 10px 0; list-style:none; }
+li.pub-item{
+  padding: 10px 14px;
+  border-top:1px solid rgba(0,0,0,.06);
+  line-height:1.45;
+}
+.pub-no{ display:inline-block; min-width: 44px; color:#666; font-weight:700; }
+.pub-meta{ color:#444; }
+.pub-links a{ margin-left:8px; font-size: 13px; }
+.smallnote{ color:#666; margin:10px 0 0; font-size:13px; }
+</style>
+</head>
+<body>
+<div class="pub-wrap">
+  <div class="pub-top">
+    <div>
+      <h1>All publications</h1>
+      <div class="smallnote"><code>BibTeX</code> file can be downloaded from here: <a href="BibTeX.txt" download>BibTeX</a></div>
+    </div>
+    <div class="pub-actions">
+      <a class="back" href="index.html">← Back to homepage</a>
+      <input id="q" type="search" placeholder="Search title / authors / journal / year…">
+      <select id="sort">
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="pubRoot" style="margin-top:12px"></div>
+</div>
+
+<script src="publications.js"></script>
+</body>
+</html>

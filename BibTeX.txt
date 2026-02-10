@@ -1,0 +1,1330 @@
+
+%%%%%%%%%%%%%% 2026 %%%%%%%%%%%%%%
+
+@article{Durajski-129-2026,
+author = {A. P. Durajski and P. Niegodajew and I. A. Wrona},
+title = {Strategic Screening of Ternary Hydrides for High-Temperature Superconductivity},
+journal = {Ann. Phys. (Berlin)},
+volume = {538},
+pages = {e00457},
+doi = {https://doi.org/10.1002/andp.202500457},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202500457},
+year = {2026}}
+
+@article{Durajski-128-2026,
+title = {Effect of Al-doping on the optical properties of monolayer MoS2},
+journal = {Physica E},
+volume = {176},
+pages = {116423},
+year = {2026},
+doi = {https://doi.org/10.1016/j.physe.2025.116423},
+url = {https://www.sciencedirect.com/science/article/pii/S138694772500253X},
+author = {J. Maksymiuk and I. A. Wrona and A. P. Durajski}}
+
+@article{Durajski-127-2026,
+title = {Reducing wall effect in random packed beds of spheres through corrugation of the container’s wall},
+journal = {Powder Technol.},
+volume = {467},
+pages = {121586},
+year = {2026},
+doi = {https://doi.org/10.1016/j.powtec.2025.121586},
+url = {https://www.sciencedirect.com/science/article/pii/S0032591025009817},
+author = {M. Marek and M. Wilczyński and A. P. Durajski and P. Niegodajew}}
+
+%%%%%%%%%%%%%% 2025 %%%%%%%%%%%%%%
+
+@article{Durajski-126-2025,
+author={A. P. Durajski and P. Niegodajew and I. A. Wrona},
+title={Metadata-driven identification of high-temperature superconductor candidates},
+journal={Sci. Rep.},
+year={2025},
+volume={15},
+pages={44858},
+doi={10.1038/s41598-025-29162-4},
+url={https://doi.org/10.1038/s41598-025-29162-4}}
+
+@article{Durajski-125-2025,
+title = {Preventing near-wall particles’ ordering in narrow random packed beds of spheres},
+journal = {Adv. Powder Technol.},
+volume = {36},
+pages = {105060},
+year = {2025},
+doi = {https://doi.org/10.1016/j.apt.2025.105060},
+url = {https://www.sciencedirect.com/science/article/pii/S092188312500281X},
+author = {Maciej Marek and Michał Wilczyński and Artur P. Durajski and Paweł Niegodajew}}
+
+@article{Durajski-124-2025,
+title = {High-temperature superconductivity in Th-B-H systems via nonclathrate design},
+author = {Z. Zhou and W. Cui and S. Ding and W. Xu and J. Hao and J. Shi and A. P. Durajski and H. Liu and Y. Li},
+journal = {Phys. Rev. B},
+volume = {112},
+pages = {054513},
+year = {2025},
+doi = {10.1103/gnq4-b1gr},
+url = {https://link.aps.org/doi/10.1103/gnq4-b1gr}}
+
+@article{Durajski-123-2025,
+author = {R. U. R. Sagar and M. Waseem and A. P. Durajski and M. Khan and N. Mahmood and Y. Chen},
+title = {Designing Lithophilic Interfaces for Robust Anode-Free Lithium Metal Batteries},
+journal = {Nano Lett.},
+volume = {25},
+pages = {10970-10976},
+year = {2025},
+doi = {10.1021/acs.nanolett.5c02545},
+URL = {https://doi.org/10.1021/acs.nanolett.5c02545}}
+
+@article{Durajski-122-2025,
+title = {Tunable optical and electronic properties of monolayer MoS2 via substitutional doping},
+journal = {Surf. Sci.},
+volume = {761},
+pages = {122788},
+year = {2025},
+doi = {https://doi.org/10.1016/j.susc.2025.122788},
+url = {https://www.sciencedirect.com/science/article/pii/S0039602825000950},
+author = {J. Maksymiuk and I. A. Wrona and R. Szczesniak and A. P. Durajski}}
+
+@article{Durajski-121-2025,
+author = {I. A. Wrona and P. Niegodajew and A. P. Durajski},
+title = {High-Temperature Ternary Superhydrides: A Strategic Roadmap to Optimal Superconducting Parameters},
+journal = {Adv. Funct. Mater.},
+volume = {35},
+pages = {2423680},
+doi = {https://doi.org/10.1002/adfm.202423680},
+url = {https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202423680},
+year = {2025}}
+
+@article{Durajski-120-2025,
+title = {Electronic and optical properties of monolayer magnesium diboride under biaxial strain},
+journal = {Comput. Mater. Sci.},
+volume = {246},
+pages = {113343},
+year = {2025},
+doi = {https://doi.org/10.1016/j.commatsci.2024.113343},
+url = {https://www.sciencedirect.com/science/article/pii/S0927025624005640},
+author = {K. A. Kempa and J. Karch and I. A. Wrona and A. P. Durajski}}
+
+%%%%%%%%%%%%%% 2024 %%%%%%%%%%%%%%
+
+@article{Durajski-119-2024,
+author={I. A. Wrona and P. Niegodajew and Y. Li and A. P. Durajski},
+title={Prediction of p-block-based ternary superconductors XC2H8 at low pressure},
+journal={npj Comput. Mater.},
+year={2024},
+volume={10},
+pages={289},
+doi={10.1038/s41524-024-01490-5},
+url={https://doi.org/10.1038/s41524-024-01490-5}}
+
+@article{Durajski-118-2024,
+author ="M. Liu and W. Cui and J. Shi and A. P. Durajski and J. Hao, Y. Li",
+title  ="Superconductivity in the Ce–B–H system at high pressure",
+journal  ="J. Mater. Chem. C",
+year  ="2024",
+volume  ="12",
+pages  ="16881-16887",
+doi  ="10.1039/D4TC02905D",
+url  ="http://dx.doi.org/10.1039/D4TC02905D"}
+
+@article{Durajski-117-2024,
+title = {Prediction of high-${T}_{c}$ superconductivity under submegabar pressure in ternary actinium borohydrides},
+author = {T. Gu and W. Cui and J. Hao and J. Shi and A. P. Durajski and H. Liu and Y. Li},
+journal = {Phys. Rev. B},
+volume = {110},
+pages = {064105},
+year = {2024},
+doi = {10.1103/PhysRevB.110.064105},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.110.064105}}
+
+@article{Durajski-116-2024,
+title = {A recipe for an effective selection of promising candidates for high-temperature superconductors among binary hydrides},
+journal = {Mater. Today Phys.},
+volume = {46},
+pages = {101499},
+year = {2024},
+doi = {https://doi.org/10.1016/j.mtphys.2024.101499},
+url = {https://www.sciencedirect.com/science/article/pii/S2542529324001755},
+author = {I. A. Wrona and P. Niegodajew and A. P. Durajski}}
+
+@article{Durajski-115-2024,
+author = {I. A. Wrona and R. Szczesniak and A. P. Durajski},
+title = {Ternary ScC2H8 Superconductor at Moderate Pressure},
+journal = {J. Phys. Chem. C},
+volume = {128},
+pages = {9247-9255},
+year = {2024},
+doi = {10.1021/acs.jpcc.4c00100},
+URL = {https://doi.org/10.1021/acs.jpcc.4c00100}}
+
+@article{Durajski-114-2024,
+author={G. T. Kasprzak and M. W. Jarosik and A. P. Durajski},
+title={Investigation of N3C5 and B3C5 bilayers as anode materials for Li-ion batteries by first-principles calculations},
+journal={Sci. Rep.},
+year={2024},
+volume={14},
+number={1},
+pages={11180},
+doi={10.1038/s41598-024-61939-x},
+url={https://doi.org/10.1038/s41598-024-61939-x}}
+
+@article{Durajski-113-2024,
+author = {P. Song and A.P. Durajski and Z. Hou and A. Ghaffar and R. Dahule and R. Szczesniak and K. Hongo and R. Maezono},
+title = {(La,Th)H10: Potential High-Tc (242 K) Superconductors Stabilized Thermodynamically below 200 GPa},
+journal = {J. Phys. Chem. C},
+volume = {128},
+pages = {2656-2665},
+year = {2024},
+doi = {10.1021/acs.jpcc.3c07213},
+URL = {https://doi.org/10.1021/acs.jpcc.3c07213}}
+
+@article{Durajski-112-2024,
+title = {Prediction of high-${T}_{c}$ superconductivity in ternary actinium beryllium hydrides at low pressure},
+author = {K. Gao and W. Cui and J. Shi and A. P. Durajski and J. Hao and S. Botti and M. A. L. Marques and Y. Li},
+journal = {Phys. Rev. B},
+volume = {109},
+pages = {014501},
+year = {2024},
+doi = {10.1103/PhysRevB.109.014501},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.109.014501}}
+
+%%%%%%%%%%%%%% 2023 %%%%%%%%%%%%%%
+
+@article{Durajski-111-2023,
+title = {Effect of doping on the phase stability and superconductivity in $\mathrm{La}{\mathrm{H}}_{10}$},
+author = {Wu, Zepeng and Sun, Yang and Durajski, Artur P. and Zheng, Feng and Antropov, Vladimir and Ho, Kai-Ming and Wu, Shunqing},
+journal = {Phys. Rev. Mater.},
+volume = {7},
+pages = {L101801},
+year = {2023},
+doi = {10.1103/PhysRevMaterials.7.L101801},
+url = {https://link.aps.org/doi/10.1103/PhysRevMaterials.7.L101801}}
+
+@article{Durajski-110-2023,
+author = {A. P. Durajski and R. Szczesniak},
+title = {First-Principles Estimation of Low-Pressure Superconductivity in KC2H8 Ternary Hydride},
+journal = {Phys. Status Solidi RRL},
+volume = {17},
+pages = {2300043},
+doi = {https://doi.org/10.1002/pssr.202300043},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssr.202300043}
+year = {2023}}
+
+@article{Durajski-109-2023,
+title = {Critical temperature of the nonadiabatic superconducting state in mono- and bilayer systems},
+author = {K.A. Krok and M. M. Adamczyk and A. P. Durajski and R. Szczesniak},
+journal = {Phys. Rev. B},
+volume = {108},
+pages = {054512},
+year = {2023},
+doi = {10.1103/PhysRevB.108.054512},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.108.054512}}
+
+@article{Durajski-108-2023,
+title = {Swelling effect of 2D BC7 anode material in Li-, Na- and Mg-ion energy storage systems},
+journal = {Physica B},
+volume = {660},
+pages = {414902},
+year = {2023},
+doi = {https://doi.org/10.1016/j.physb.2023.414902},
+url = {https://www.sciencedirect.com/science/article/pii/S0921452623002697},
+author = {A. P. Durajski and G. T. Kasprzak}}
+
+@article{Durajski-107-2023,
+title = {Computational insight into bilayer NC7 anode material for Li/Na/Mg-ion batteries},
+journal = {Comput. Mater. Sci.},
+volume = {225},
+pages = {112194},
+year = {2023},
+doi = {https://doi.org/10.1016/j.commatsci.2023.112194},
+url = {https://www.sciencedirect.com/science/article/pii/S092702562300188X},
+author = {G. T. Kasprzak and R. Szczesniak and A. P. Durajski}}
+
+%%%%%%%%%%%%%% 2022 %%%%%%%%%%%%%%
+
+@article{Durajski-106-2022,
+title  ="Tunable electronic properties of twisted graphene layers in high angles regime",
+author ="A. P. Durajski and R. Szczesniak",
+journal  ="Acta Phys. Pol. A",
+year  ="2022",
+volume  ="142",
+pages  ="114–116",
+doi  ="10.12693/APhysPolA.142.114",
+url  ="http://doi.org/10.12693/APhysPolA.142.114"}
+
+@article{Durajski-105-2022,
+title  ="The physical properties of muon cation: the ab initio results",
+author ="J. M. Truszkowski and M. W. Jarosik and A. P. Durajski and R. Szczesniak",
+journal  ="Acta Phys. Pol. A",
+year  ="2022",
+volume  ="142",
+pages  ="39–43",
+doi  ="10.12693/APhysPolA.142.39",
+url  ="http://doi.org/10.12693/APhysPolA.142.39"}
+
+@article{Durajski-104-2022,
+title  ="Geometric isomers of the (3,1) carbon nanotube: a theoretical study",
+author ="B. Brzostowski and A. P. Durajski and J. Wojtkiewicz and K. M. Gruszka",
+journal  ="Acta Phys. Pol. A",
+year  ="2022",
+volume  ="142",
+pages  ="21–23",
+doi  ="10.12693/APhysPolA.142.21",
+url  ="http://doi.org/10.12693/APhysPolA.142.21"}
+
+@article{Durajski-103-2022,
+author={I. A. Domagalska and A.P. Durajski and K.M. Gruszka and I.A. Wrona and K.A. Krok and W. Leonski and R. Szczesniak},
+title={Balanced electron flow and the hydrogen bridge energy levels in Pt, Au, or Cu nanojunctions},
+journal={Appl. Nanosci.},
+year={2022},
+volume={12},
+pages={2595-2607},
+doi={10.1007/s13204-022-02537-z},
+url={https://doi.org/10.1007/s13204-022-02537-z}}
+
+@article{Durajski-102-2022,
+author = {K. A. Krok and A. P. Durajski and R. Szczesniak},
+title = {The Abraham-Lorentz force and the time evolution of a chaotic system: The case of charged classical and quantum Duffing oscillators},
+journal = {Chaos},
+volume = {32},
+pages = {073130},
+year = {2022},
+doi = {10.1063/5.0090477},
+url = {https://doi.org/10.1063/5.0090477}}
+
+@article{Durajski-101-2022,
+author={G. T. Kasprzak and A. P. Durajski},
+title={Two-dimensional B2C as a potential anode material for Mg-ion batteries with extremely high theoretical capacity},
+journal={Sci. Rep.},
+year={2022},
+volume={12},
+pages={11460},
+doi={10.1038/s41598-022-15702-9},
+url={https://doi.org/10.1038/s41598-022-15702-9}}
+
+@article{Durajski-100-2022,
+author = {I. A. Wrona and M. Kostrzewa and K. A. Krok and A. P. Durajski and R. Szczesniak},
+title = {Carbonaceous sulfur hydride system: The strong-coupled room-temperature superconductor with a low value of Ginzburg–Landau parameter},
+journal = {J. Appl. Phys.},
+volume = {131},
+pages = {113901},
+year = {2022},
+doi = {10.1063/5.0081918},
+url = {https://doi.org/10.1063/5.0081918}}
+
+@article{Durajski-99-2022,
+title = {Experimental and numerical study on the orientation distribution of cylindrical particles in random packed beds},
+journal = {Chem. Eng. J.},
+volume = {432},
+pages = {134043},
+year = {2022},
+doi = {https://doi.org/10.1016/j.cej.2021.134043},
+url = {https://www.sciencedirect.com/science/article/pii/S1385894721056175},
+author = {P. Niegodajew and A. P. Durajski and P. Rajca and K. M. Gruszka and M. Marek}}
+
+%%%%%%%%%%%%%% 2021 %%%%%%%%%%%%%%
+
+@article{Durajski-98-2021,
+author ="A.P. Durajski and R. Szczesniak",
+title  ="New superconducting superhydride LaC2H8 at relatively low stabilization pressure",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2021",
+volume  ="23",
+pages  ="25070-25074",
+doi  ="10.1039/D1CP03896F",
+url  ="http://dx.doi.org/10.1039/D1CP03896F"}
+
+@article{Durajski-97-2021,
+author={A.P. Durajski and K.M. Gruszka and P. Niegodajew},
+title={The influence of heteroatom doping on local properties of phosphorene monolayer},
+journal={Sci. Rep.},
+year={2021},
+volume={11},
+pages={18494},
+doi={10.1038/s41598-021-98014-8},
+url={https://doi.org/10.1038/s41598-021-98014-8}}
+
+@article{Durajski-96-2021,
+author={M. Kostrzewa and A.P. Durajski and J.K. Kalaga and R. Szczesniak, R.},
+title={Thermodynamic Properties of the Superconducting State in Metallic Hydrogen: Electronic Correlations, Non-conventional Electron-Phonon Couplings and the Anharmonic Effects},
+journal={J. Supercond. Nov. Magn.},
+year={2021},
+volume={34},
+pages={2281-2291},
+doi={10.1007/s10948-020-05781-y},
+url={https://doi.org/10.1007/s10948-020-05781-y}}
+
+@article{Durajski-95-2021,
+title  ="Theoretical investigation of C3 N monolayer as anode material for Li/Na-ion batteries",
+author ="G. T. Kasprzak and K. M. Gruszka and A. P. Durajski",
+journal  ="Acta Phys. Pol. A",
+year  ="2021",
+volume  ="139",
+pages  ="621–624",
+doi  ="10.12693/APhysPolA.139.621",
+url  ="http://doi.org/10.12693/APhysPolA.139.621"}
+
+@article{Durajski-94-2021,
+title = {Chaotic evolution of the energy of the electron orbital and the hopping integral in diatomic molecule cations subjected to harmonic excitation},
+journal = {Physica D},
+volume = {423},
+pages = {132929},
+year = {2021},
+doi = {https://doi.org/10.1016/j.physd.2021.132929},
+url = {https://www.sciencedirect.com/science/article/pii/S0167278921000877},
+author = {I.A. Domagalska and M.W. Jarosik and A.P. Durajski and J.K. Kalaga and R. Szczesniak}}
+}
+
+@article{Durajski-93-2021,
+author = {Artur P. Durajski and Chongze Wang and Yinwei Li and Radoslaw Szczesniak and Jun-Hyung Cho},
+title = {Evidence of Phonon-Mediated Superconductivity in LaH10 at High Pressure},
+journal = {Ann. Phys. (Berlin)},
+volume = {533},
+pages = {2000518},
+doi = {https://doi.org/10.1002/andp.202000518},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202000518},
+year = {2021}}
+
+@article{Durajski-92-2021,
+title = {Substitution induced and stress controlled magnetism in 2D pyrene-based carbon nanomaterial},
+journal = {Surf. Sci.},
+volume = {709},
+pages = {121836},
+year = {2021},
+doi = {https://doi.org/10.1016/j.susc.2021.121836},
+url = {https://www.sciencedirect.com/science/article/pii/S0039602821000406},
+author = {Konrad M. Gruszka and Artur P. Durajski}}
+
+@article{Durajski-91-2021,
+title  ="Stability and superconductivity of Ca-intercalated bilayer blue phosphorene",
+author ="A. P. Durajski and K. M. Skoczylas and R. Szczesniak",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2021",
+volume  ="23",
+pages  ="2846-2852",
+doi  ="10.1039/D0CP05984F",
+url  ="https://doi.org/10.1039/D0CP05984F"}    
+
+@article{Durajski-90-2021,
+title  ="The unbalanced phonon-induced superconducting state on a square lattice beyond the static boundary",
+author ="K. A. Szewczyk and M. W. Jarosik and A. P. Durajski and R. Szczesniak",
+journal  ="Physica B",
+year  ="2021",
+volume  ="600",
+pages  ="412613",
+doi  ="10.1016/j.physb.2020.412613",
+url  ="https://doi.org/10.1016/j.physb.2020.412613"}
+
+%%%%%%%%%%%%%% 2020 %%%%%%%%%%%%%%
+
+@article{Durajski-89-2020,
+title  ="Phonon-induced superconducting state: from metallic hydrogen to LaH10",
+author ="A. P. Durajski and M. W. Jarosik and K. P. Kosk-Joniec and I. A. Wrona and M. Kostrzewa and K. A. Szewczyk and R. Szczesniak",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="138",
+pages  ="715-727",
+doi  ="10.12693/APhysPolA.138.715",
+url  ="https://doi.org/10.12693/APhysPolA.138.715"}
+
+@article{Durajski-88-2020,
+title  ="Studies of acoustic wave propagation when facing obstacle",
+author ="K. Gruszka and A. P. Durajski and P. Niegodajew and A. Wawrzyniak and R. Gnatowska and M. Beben and M. Sofer",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="138",
+pages  ="280-282",
+doi  ="10.12693/APhysPolA.138.280",
+url  ="https://doi.org/10.12693/APhysPolA.138.280"}
+
+@article{Durajski-87-2020,
+title  ="The energy storage properties of supercapacitors with carbon-based electrodes",
+author ="A. P. Durajski and K. M. Gruszka and K. Giza and P. Niegodajew",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="138",
+pages  ="148-151",
+doi  ="10.12693/APhysPolA.138.148",
+url  ="https://doi.org/10.12693/APhysPolA.138.148"}
+
+@article{Durajski-86-2020,
+title  ="Electronic properties of graphene/hBN heterostructures with in-plane displacement",
+author ="A. P. Durajski and A. E. Auguscik",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="138",
+pages  ="136-139",
+doi  ="10.12693/APhysPolA.138.136",
+url  ="https://doi.org/10.12693/APhysPolA.138.136"}
+
+@article{Durajski-85-2020,
+title  ="Nonadiabatic superconductivity in Li-intercalated hexagonal boron nitride bilayer",
+author ="K. Szewczyk and I. Domagalska and A. P. Durajski and R. Szczesniak",
+journal  ="Beilstein J. Nanotechnol.",
+year  ="2020",
+volume  ="11",
+pages  ="1178-1189",
+doi  ="10.3762/bjnano.11.102",
+url  ="https://doi.org/10.3762/bjnano.11.102"}
+
+@article{Durajski-84-2020,
+title  ="First-principles study of substitutionally doped phosphorene as anode material for Na-ion batteries",
+author ="A. P. Durajski and K. M. Gruszka and P. Niegodajew",
+journal  ="Appl. Surf. Sci.",
+year  ="2020",
+volume  ="532",
+pages  ="147377",
+doi  ="10.1016/j.apsusc.2020.147377",
+url  ="https://doi.org/10.1016/j.apsusc.2020.147377"}
+
+@article{Durajski-83-2020,
+title  ="Thermodynamic properties of superconducting state in intercalated bilayer graphene",
+author ="K. M. Skoczylas and A. P. Durajski and R. Szczesniak",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="137",
+pages  ="776-778",
+doi  ="10.12693/APhysPolA.137.776",
+url  ="http://doi.org/10.12693/APhysPolA.137.776"}
+
+@article{Durajski-82-2020,
+title  ="First-principles study on electronic and magnetic properties of Sc-, Ti- and Zn-doped graphene",
+author ="A. E. Auguscik and A. P. Durajski and R. Szczesniak",
+journal  ="Acta Phys. Pol. A",
+year  ="2020",
+volume  ="137",
+pages  ="958-960",
+doi  ="10.12693/APhysPolA.137.958",
+url  ="http://doi.org/10.12693/APhysPolA.137.958"}
+
+@article{Durajski-81-2020,
+title = {Isotope effect in superconducting lanthanum hydride under high compression},
+author = {Durajski, Artur P. and Szczesniak, Radoslaw and Li, Yinwei and Wang, Chongze and Cho, Jun-Hyung},
+journal = {Phys. Rev. B},
+volume = {101},
+pages = {214501},
+year = {2020},
+doi = {10.1103/PhysRevB.101.214501},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.101.214501}}
+
+@article{Durajski-80-2020,
+author = {Zhou, Xuhan and Brzostowski, Bartosz and Durajski, Artur and Liu, Meizhuang and Xiang, Jin and Jiang, Tianran and Wang, Zhiqiang and Chen, Shenwei and Li, Peigen and Zhong, Zhihao and Drzewiński, Andrzej and Jarosik, Marcin and Szczesniak, Radoslaw and Lai, Tianshu and Guo, Donghui and Zhong, Dingyong},
+title = {Atomically Thin 1T-FeCl2 Grown by Molecular-Beam Epitaxy},
+journal = {J. Phys. Chem. C},
+volume = {124},
+pages = {9416-9423},
+year = {2020},
+doi = {10.1021/acs.jpcc.0c03050},
+URL = {https://doi.org/10.1021/acs.jpcc.0c03050}}
+
+@article{Durajski-79-2020,
+title = "Pressure effects on the superconductivity in FeH5 compound",
+journal = "Physica B",
+volume = "584",
+pages = "412063",
+year = "2020",
+issn = "0921-4526",
+doi = "https://doi.org/10.1016/j.physb.2020.412063",
+url = "http://www.sciencedirect.com/science/article/pii/S0921452620300764",
+author = "K.M. Skoczylas and A.P. Durajski and R. Szczesniak"}
+
+@article{Durajski-78-2020,
+title = "Tunable electronic and magnetic properties of substitutionally doped graphene",
+journal = "Physica E",
+volume = "119",
+pages = "113985",
+year = "2020",
+doi = "https://doi.org/10.1016/j.physe.2020.113985",
+url = "http://www.sciencedirect.com/science/article/pii/S1386947719315164",
+author = "A. P. Durajski and A. E. Auguscik and R. Szczesniak"}
+
+@article{Durajski-77-2020,
+author  = "M. Kostrzewa and K. M. Szczesniak and A. P. Durajski and R. Szczesniak",
+title   = "From LaH10 to room-temperature superconductors",
+journal = "Sci. Rep.",
+volume  = "10",
+pages   = "1592",
+doi     = "10.1038/s41598-020-58065-9",
+url     = "https://doi.org/10.1038/s41598-020-58065-9",
+year    = "2020"}
+
+%%%%%%%%%%%%%% 2019 %%%%%%%%%%%%%%
+
+@article{Durajski-76-2019,
+doi = {10.1088/1742-6596/1398/1/012005},
+url = {https://doi.org/10.1088%2F1742-6596%2F1398%2F1%2F012005},
+year = 2019,
+volume = {1398},
+pages = {012005},
+author = {K. Gruszka and A. P. Durajski and P. Niegodajew and M. Beben and W. Elsner and R. Gnatowska and M. Sofer,
+title = {Problems with identification of vortex rings when using anemometry measurements.},
+journal = {J. Phys.: Conf. Ser.}}
+	
+@article{Durajski-75-2019,
+doi = {10.1088/1361-6668/ab48d3},
+url = {https://doi.org/10.1088%2F1361-6668%2Fab48d3},
+year = 2019,
+volume = {32},
+pages = {125005},
+author = {Artur P Durajski and Kamil M Skoczylas and Radoslaw Szczesniak},
+title = {Adatom-dependent superconducting transition temperature in monolayer graphene},
+journal = {Supercond. Sci. Technol.}}
+	
+@article{Durajski-74-2019,
+author = {Chen, Ju and Cui, Wenwen and Shi, Jingming and Xu, Meiling and Hao, Jian and Durajski, Artur P. and Li, Yinwei},
+title = {Computational Design of Novel Hydrogen-Rich YS-H Compounds},
+journal = {ACS Omega},
+volume = {4},
+pages = {14317-14323},
+year = {2019},
+doi = {10.1021/acsomega.9b02094},
+URL = {https://doi.org/10.1021/acsomega.9b02094}}
+
+@article{Durajski-73-2019,
+title = "Thermodynamic properties of superconducting GeH3 under high pressure",
+journal = "J. Phys. Chem. Solids",
+volume = "132",
+pages = "110 - 115",
+year = "2019",
+doi = "10.1016/j.jpcs.2019.04.009",
+url = "http://www.sciencedirect.com/science/article/pii/S002236971830979X",
+author = "K. M. Skoczylas and R. Szczesniak and A. P. Durajski"}
+
+@article{Durajski-72-2019,
+title  ="Non-adiabatic effects in superconducting intermetallic borocarbides",
+author ="A. P. Durajski and K. M. Skoczylas and A. E. Auguscik",
+journal  ="Acta Phys. Pol. A",
+year  ="2019",
+volume  ="135",
+pages  ="276 - 279",
+doi  ="10.12693/APhysPolA.135.276",
+url  ="http://dx.doi.org/10.12693/APhysPolA.135.276"}
+
+@article{Durajski-71-2019,
+title  ="London penetration depth study of Nb2InC nanolaminate",
+author ="K. M. Skoczylas and A. E. Auguscik and A. P. Durajski",
+journal  ="Acta Phys. Pol. A",
+year  ="2019",
+volume  ="135",
+pages  ="196 - 199",
+doi  ="10.12693/APhysPolA.135.196",
+url  ="http://dx.doi.org/10.12693/APhysPolA.135.196"}
+
+@article{Durajski-70-2019,
+title  ="Superconductivity in bilayer graphene intercalated with alkali and alkaline earth metals",
+author ="Durajski, Artur P. and Skoczylas, Kamil M. and Szczesniak, Radoslaw",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2019",
+volume  ="21",
+pages  ="5925-5931",
+doi  ="10.1039/C9CP00176J",
+url  ="http://dx.doi.org/10.1039/C9CP00176J"}
+
+@article{Durajski-69-2019,
+author = {Durajski, Artur P. and Olesik, Anna B. and Auguscik, Anita E.},
+title = {Spontaneous magnetization of ferromagnet in mean-field Heisenberg model},
+journal = {Mod. Phys. Lett. B},
+volume = {33},
+pages = {1950036},
+year = {2019},
+doi = {10.1142/S0217984919500362},
+url = {10.1142/S0217984919500362}}
+
+@article{Durajski-68-2019,
+title = "Non-parametric application of Tsallis statistics to systems consisting of M hydrogen molecules",
+journal = "Physica A",
+volume = "518",
+pages = "1 - 12",
+year = "2019",
+doi = "10.1016/j.physa.2018.11.050",
+url = "http://www.sciencedirect.com/science/article/pii/S0378437118314870",
+author = "E. A. Drzazga and R. Szczesniak and I. A. Domagalska and A. P. Durajski and M. Kostrzewa"}
+
+
+%%%%%%%%%%%%%% 2018 %%%%%%%%%%%%%%
+
+@article{Durajski-67-2018,
+title = {Effect of covalent bonding on the superconducting critical temperature of the H-S-Se system},
+author = {Liu, Binbin and Cui, Wenwen and Shi, Jingming and Zhu, Li and Chen, Ju and Lin, Shuyi and Su, Ruiming and Ma, Jiayu and Yang, Kang and Xu, Meiling and Hao, Jian and Durajski, Artur P. and Qi, Jingshan and Li, Yanling and Li, Yinwei},
+journal = {Phys. Rev. B},
+volume = {98},
+pages = {174101},
+year = {2018},
+doi = {10.1103/PhysRevB.98.174101},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.98.174101}}
+
+@article{Durajski-66-2018,
+author = "K. M. Skoczylas and R. Szczesniak and A. P. Durajski",
+title = "Strain effect on thermodynamic properties of superconducting Nb2InC",
+journal = "Physica C",
+volume = "555",
+pages = "39 - 44",
+year = "2018",
+doi = "10.1016/j.physc.2018.10.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453418302740"}
+
+@article{Durajski-65-2018,
+author = "A. P. Durajski and R. Szczesniak",
+title = "Gradual reduction of the superconducting transition temperature of H3S by partial replacing sulfur with phosphorus",
+journal = "Physica C",
+volume = "554",
+pages = "38 - 43",
+year = "2018",
+doi = "10.1016/j.physc.2018.09.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453418303022"}
+
+@article{Durajski-64-2018,
+author = {A. P. Durajski  and R. Szczesniak},
+title = {Structural, electronic, vibrational, and superconducting properties of hydrogenated chlorine},
+journal = {J. Chem. Phys.},
+volume = {149},
+pages = {074101},
+year = {2018},
+doi = {10.1063/1.5031202},
+url = {https://doi.org/10.1063/1.5031202}}
+
+@article{Durajski-63-2018,
+author = "P. Tarasewicz and R. Szczesniak and A. P. Durajski",
+title = "The half-filled superconducting system with on-site inter-band interactions",
+journal = "Physica C",
+volume = "552",
+pages = "1 - 18",
+year = "2018",
+doi = "10.1016/j.physc.2018.06.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453418301266"}
+
+@article{Durajski-62-2018,
+author = "R. Szczesniak and A. P. Durajski and M. W. Jarosik",
+title = "Ab-initio study of superconducting state in intercalated MoSe2 and WSe2 bilayers",
+journal = "Physica B",
+volume = "536",
+pages = "773 - 776",
+year = "2018",
+doi = "10.1016/j.physb.2017.10.058",
+url = "http://www.sciencedirect.com/science/article/pii/S0921452617307913"}
+
+@article{Durajski-61-2018,
+author = "R. Szczesniak and M. W. Jarosik and P. Tarasewicz and A. P. Durajski",
+title = "Multi-band description of the specific heat and thermodynamic critical field in MgB2 superconductor",
+journal = "Physica B",
+volume = "536",
+pages = "726 - 729",
+year = "2018",
+doi = "10.1016/j.physb.2017.11.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0921452617308773"}
+
+@article{Durajski-60-2018,
+author  = "R. Szczesniak and A. P. Durajski",
+title   = "Unusual sulfur isotope effect and extremely high critical temperature in H3S superconductor",
+journal = "Sci. Rep.",
+volume  = "8",
+pages   = "6037",
+doi     = "10.1038/s41598-018-24442-8",
+url     = "https://www.nature.com/articles/s41598-018-24442-8",
+year    = "2018"}
+    
+@article{Durajski-59-2018,
+author = {M. W. Jarosik and R. Szczesniak and A. P. Durajski and J. K. Kalaga and W. Leonski},
+title = {Influence of external extrusion on stability of hydrogen molecule and its chaotic behavior},
+journal = {Chaos},
+volume = {28},
+pages = {013126},
+year = {2018},
+doi = {10.1063/1.5008986},
+url = {https://doi.org/10.1063/1.5008986}}
+
+@article{Durajski-58-2018,
+author="R. Szczesniak and A. P. Durajski and A. M. Duda and P. Tarasewicz",
+title="Diagram of the Critical Temperature---Nernst Temperature for the Superconductivity Induced by Modified Electron-Phonon Interaction",
+journal="J. Supercond. Nov. Magn.",
+year="2018",
+volume="31",
+pages="19 - 28",
+doi="10.1007/s10948-017-4171-9",
+url="https://doi.org/10.1007/s10948-017-4171-9"}    
+    
+@article{Durajski-57-2018,
+author = "R. Szczesniak and A. P. Durajski and M. W. Jarosik",
+title="Strong-coupling superconductivity induced by calcium intercalation in bilayer transition-metal dichalcogenides",
+journal="Front. Phys.",
+year="2018",
+volume="13",
+pages="137401",
+doi="10.1007/s11467-017-0726-2",
+url="https://doi.org/10.1007/s11467-017-0726-2"}
+    
+%%%%%%%%%%%%%% 2017 %%%%%%%%%%%%%%
+
+@article{Durajski-56-2017,
+author = "A. P. Durajski and R. Szczesniak",
+title = "Doping dependence of critical temperature for superconductivity induced by hole–phonon interaction",
+journal = "Phys. Lett. A",
+volume = "381",
+pages = "3332 - 3336",
+year = "2017",
+doi = "10.1016/j.physleta.2017.08.029",
+url = "http://www.sciencedirect.com/science/article/pii/S0375960117307545"}
+
+@article{Durajski-55-2017,
+author = "R. Szczesniak and A. P. Durajski and M. W. Jarosik",
+title = "Metallization and superconductivity in Ca-intercalated bilayer MoS2",
+journal = "J. Phys. Chem. Solids",
+volume = "111",
+pages = "254 - 257",
+year = "2017",
+doi = "10.1016/j.jpcs.2017.08.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0022369717309071"}
+
+@article{Durajski-54-2017,
+author  = "A. P. Durajski and R. Szczesniak",
+title   = "First-principles study of superconducting hydrogen sulfide at pressure up to 500 GPa",
+journal = "Sci. Rep.",
+volume  = "7",
+pages   = "4473",
+doi     = "10.1038/s41598-017-04714-5",
+url     = "https://www.nature.com/articles/s41598-017-04714-5",
+year    = "2017"}
+    
+@article{Durajski-53-2017,
+author={A. P. Durajski and R. Szczesniak},
+title={On the magnetic penetration depth in superconducting ultrathin lead films},
+journal={Acta Phys. Pol. A},
+volume={131},
+pages={1051 - 1053},
+year={2017},
+url={http://przyrbwn.icm.edu.pl/APP/PDF/131/a131z4p144.pdf},
+doi={10.12693/APhysPolA.131.1051}}
+
+@article{Durajski-52-2017,
+author = {R. Szczesniak and A. P. Durajski and A. M. Duda},
+title = {Pseudogap in the Eliashberg approach based on electron-phonon and electron-electron-phonon interaction},
+journal = {Ann. Phys. (Berlin)},
+volume = {529},
+pages = {1600254},
+year = "2017",
+doi = {10.1002/andp.201600254},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.201600254}}
+    
+@article{Durajski-51-2017,
+author = "R. Szczesniak and A. P. Durajski",
+title = "The isotope effect in H3S superconductor",
+journal = "Solid State Commun.",
+volume = "249",
+pages = "30 - 33",
+year = "2017",
+doi = "10.1016/j.ssc.2016.10.012",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109816302848"}    
+    
+%%%%%%%%%%%%%% 2016 %%%%%%%%%%%%%%
+
+@article{Durajski-50-2016,
+author  = "Artur Durajski",
+title   = "Quantitative analysis of nonadiabatic effects in dense {H$_3$S} and {PH$_3$} superconductors",
+journal = "Sci. Rep.",
+volume  = "6",
+pages   = "38570",
+doi     = "10.1038/srep38570",
+url     = "https://www.nature.com/articles/srep38570",
+year    = "2016"}
+
+@article{Durajski-49-2016,
+title = {Pressure effects on the unconventional superconductivity of noncentrosymmetric LaNiC2},
+author = {B. Wiendlocha and R. Szczesniak and A. P. Durajski and M. Muras},
+journal = {Phys. Rev. B},
+volume = {94},
+issue = {13},
+pages = {134517},
+year = {2016},
+doi = {10.1103/PhysRevB.94.134517},
+url = {https://link.aps.org/doi/10.1103/PhysRevB.94.134517}}
+
+@article{Durajski-48-2016,
+author = "A. P. Durajski and M. K. Paliwoda and R. Szczesniak",
+title = "Superconductivity in the intermetallic borocarbides YPd2B2C, YPt2B2C and LaPt2B2C",
+journal = "Solid State Sci.",
+volume = "61",
+pages = "215 - 219",
+year = "2016",
+doi = "10.1016/j.solidstatesciences.2016.09.021",
+url = "http://www.sciencedirect.com/science/article/pii/S1293255816304976"}
+
+@article{Durajski-47-2016,
+author={D. Szczesniak and A. P. Durajski and A. Khater and D. Ghader},
+title={Energy band gaps in graphene nanoribbons with corners},
+journal={Europhys. Lett.},
+volume={114},
+pages={48001},
+url={http://stacks.iop.org/0295-5075/114/i=4/a=48001},
+year={2016},
+doi={10.1209/0295-5075/114/48001}}
+
+@article{Durajski-46-2016,
+author="R. Szczesniak and A. P. Durajski",
+title="Non-BCS Temperature Dependence of Energy Gap in Thin Film Electron-Doped Cuprates",
+journal="J. Supercond. Nov. Magn.",
+year="2016",
+volume="29",
+pages="1779--1786",
+doi="10.1007/s10948-016-3489-z",
+url="https://doi.org/10.1007/s10948-016-3489-z"}
+
+@article{Durajski-45-2016,
+author="A. P. Durajski",
+title="Anisotropic evolution of energy gap in Bi2212 superconductor",
+journal="Front. Phys.",
+year="2016",
+volume="11",
+pages="117408",
+doi="10.1007/s11467-016-0595-0",
+url="https://doi.org/10.1007/s11467-016-0595-0"}
+
+@article{Durajski-44-2016,
+author="R. Szczesniak and A. P. Durajski",
+title="Superconductivity well above room temperature in compressed MgH6",
+journal="Front. Phys.",
+year="2016",
+volume="11",
+pages="117406",
+doi="10.1007/s11467-016-0578-1",
+url="https://doi.org/10.1007/s11467-016-0578-1"}
+
+@article{Durajski-43-2016,
+author="R. Szczesniak and A. P. Durajski and K. M. Skoczylas and L. Herok",
+title="Low-Temperature Thermodynamic Properties of Superconducting Antiperovskite CdCNi3",
+journal="J. Low Temp. Phys.",
+year="2016",
+volume="183",
+pages="387--398",
+doi="10.1007/s10909-016-1571-3",
+url="https://doi.org/10.1007/s10909-016-1571-3"}
+
+@article{Durajski-42-2016,
+author = {A. P. Durajski and R. Szczesniak and L. Pietronero},
+title = {High-temperature study of superconducting hydrogen and deuterium sulfide},
+journal = {Ann. Phys. (Berlin)},
+volume = {528},
+year="2016",
+pages = {358 - 364},
+doi = {10.1002/andp.201500316},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.201500316}}
+
+@article{Durajski-41-2016,
+author = {R. Szczesniak and A. P. Durajski and D. Szczesniak},
+title = {Thermodynamic parameters of Zr superconductor at structural phase transition},
+journal = {Phys. Status Solidi B},
+volume = {253},
+pages = {538 - 544},
+year = {2016},
+doi = {10.1002/pssb.201552287},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201552287}}
+
+%%%%%%%%%%%%%% 2015 %%%%%%%%%%%%%%
+
+@article{Durajski-40-2015,
+author="R. Szczesniak and A. P. Durajski",
+title="Detailed study of the superconducting properties in compressed germane",
+journal="Eur. Phys. J. B",
+year="2015",
+volume="88",
+pages="342",
+doi="10.1140/epjb/e2015-60752-6",
+url="https://doi.org/10.1140/epjb/e2015-60752-6"}
+
+@article{Durajski-39-2015,
+author = {A. P. Durajski},
+title = {A comparison of two high-pressure superconducting phases in yttrium},
+journal = {Phys. Status Solidi B},
+volume = {252},
+year="2015",
+number = {10},
+pages = {2167 - 2173},
+doi = {10.1002/pssb.201552180},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201552180}}
+  	
+@article{Durajski-38-2015,
+author={A P Durajski},
+title={Effect of layer thickness on the superconducting properties in ultrathin Pb films},
+journal={Supercond. Sci. Technol.},
+volume={28},
+number={9},
+pages={095011},
+url={http://stacks.iop.org/0953-2048/28/i=9/a=095011},
+year={2015},
+doi={10.1088/0953-2048/28/9/095011}}
+
+@article{Durajski-37-2015,
+author = "R. Szczesniak and A. P. Durajski and K. M. Skoczylas",
+title = "Comparison study of superconductivity in zirconium and hafnium based electron-doped layered chloronitrides",
+journal = "Physica B",
+volume = "475",
+pages = "66 - 72",
+year = "2015",
+doi = "10.1016/j.physb.2015.06.023",
+url = "http://www.sciencedirect.com/science/article/pii/S0921452615301101"}
+
+@article{Durajski-36-2015,
+author = "A. P. Durajski and R. Szczesniak and Y. Li",
+title = "Non-BCS thermodynamic properties of H2S superconductor",
+journal = "Physica C",
+volume = "515",
+pages = "1 - 6",
+year = "2015",
+doi = "10.1016/j.physc.2015.04.005",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453415001409"}
+
+@article{Durajski-35-2015,
+author={P. W. Pach and R. Szczesniak and A. P. Durajski},
+title={Pressure dependence of the thermodynamic critical field in francium},
+journal={Acta Phys. Pol. A},
+volume={127},
+pages={231 - 233},
+year={2015},
+url={http://przyrbwn.icm.edu.pl/APP/PDF/127/a127z2p020.pdf},
+doi={10.12693/APhysPolA.127.231}}
+
+@article{Durajski-34-2015,
+author = "A.P. Durajski and R. Szczesniak",
+title = "Characterization of phonon-mediated superconductivity in lithium doping borocarbide",
+journal = "Solid State Sci.",
+volume = "42",
+pages = "20 - 24",
+year = "2015",
+doi = "10.1016/j.solidstatesciences.2015.03.001",
+url = "http://www.sciencedirect.com/science/article/pii/S1293255815000473"}
+  	
+@article{Durajski-33-2015,
+author={A. P. Durajski},
+title={Influence of hole doping on the superconducting state in graphane},
+journal={Supercond. Sci. Technol},
+volume={28},
+pages={035002},
+year={2015},
+url={http://stacks.iop.org/0953-2048/28/i=3/a=035002},
+doi={10.1088/0953-2048/28/3/035002}}
+ 
+@article{Durajski-32-2015,
+author="R. Szczesniak and A. P. Durajski",
+title="Description of High-Temperature Superconducting State in BSLCO Compound",
+journal="J. Supercond. Nov. Magn",
+year="2015",
+volume="28",
+pages="19 - 24",
+doi="10.1007/s10948-014-2836-1",
+url="https://doi.org/10.1007/s10948-014-2836-1"}
+
+@article{Durajski-31-2015,
+author = "R. Szczesniak and A.P. Durajski and L. Herok",
+title = "Thermodynamic properties of antiperovskite MgCNi3 in superconducting phase",
+journal = "Solid State Commun.",
+volume = "203",
+pages = "63 - 68",
+year = "2015",
+doi = "10.1016/j.ssc.2014.11.018",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109814004852"}
+
+%%%%%%%%%%%%%% 2014 %%%%%%%%%%%%%%
+ 	
+@article{Durajski-30-2014,
+author={R. Szczesniak and A. P. Durajski and L. Herok},
+title={Theoretical description of the SrPt3P superconductor in the strong-coupling limit},
+journal={Phys. Scripta},
+volume={89},
+pages={125701},
+url={http://stacks.iop.org/1402-4896/89/i=12/a=125701},
+year={2014},
+doi={10.1088/0031-8949/89/12/125701}}
+	  	
+@article{Durajski-29-2014,
+author={R. Szczesniak and A. P. Durajski},
+title={Anisotropy of the gap parameter in the hole-doped cuprates},
+journal={Supercond. Sci. Technol.},
+volume={27},
+number={12},
+pages={125004},
+url={http://stacks.iop.org/0953-2048/27/i=12/a=125004},
+year={2014},
+doi={10.1088/0953-2048/27/12/125004}}
+	
+@article{Durajski-28-2014,
+author={A. P. Durajski and R. Szczesniak},
+title={Properties of the pressure-induced superconducting state in trihydrides ScH 3 and LaH 3},
+journal={Supercond. Sci. Technol.},
+volume={27},
+pages={115012},
+year={2014},
+doi={10.1088/0953-2048/27/11/115012},
+url={http://stacks.iop.org/0953-2048/27/i=11/a=115012}}
+
+@article{Durajski-27-2014,
+author={R. Szczesniak and A. P. Durajski},
+title={On the ratio of the energy gap amplitude to the critical temperature for cuprates},
+journal={Acta Phys. Pol. A},
+volume={126},
+pages={A-92},
+year={2014},
+url={http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z4ap20.pdf},
+doi={10.12693/APhysPolA.126.A-92}}
+
+@article{Durajski-26-2014,
+author = "A. P. Durajski and D. Szczesniak and R. Szczesniak",
+title = "Study of the superconducting phase in silicene under biaxial tensile strain",
+journal = "Solid State Commun.",
+volume = "200",
+pages = "17 - 21",
+year = "2014",
+doi = "10.1016/j.ssc.2014.09.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109814003664"}
+
+@article{Durajski-25-2014,
+author="A. P. Durajski",
+title="Phonon-mediated superconductivity in compressed NbH4 compound",
+journal="Eur. Phys. J. B",
+year="2014",
+volume="87",
+pages="210",
+doi="10.1140/epjb/e2014-50300-5",
+url="https://doi.org/10.1140/epjb/e2014-50300-5"}
+
+@article{Durajski-24-2014,
+author = "A. P. Durajski and R. Szczesniak and A. M. Duda",
+title = "High temperature superconducting properties of atomic hydrogen at 802GPa",
+journal = "Solid State Commun.",
+volume = "195",
+pages = "55 - 60",
+year = "2014",
+doi = "10.1016/j.ssc.2014.07.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109814002804"}
+
+@article{Durajski-23-2014,
+author = "A. P. Durajski and R. Szczesniak",
+title = "Strong-coupling superconductivity in CaLi2 under the pressure of 100GPa",
+journal = "Solid State Commun.",
+volume = "192",
+pages = "93 - 97",
+year = "2014",
+doi = "10.1016/j.ssc.2014.05.010",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109814002099"}
+
+@article{Durajski-22-2014,
+author={A. P. Durajski and R. Szczesniak},
+title={On the thermodynamic critical field for the K3C60 and Rb3C60 fullerides},
+journal={Acta Phys. Pol. A},
+volume={126},
+pages={342 - 343},
+year={2014},
+url={http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z1p165.pdf},
+doi={10.12693/APhysPolA.126.342}}
+  	
+@article{Durajski-21-2014,
+author={D. Szczesniak and A. P. Durajski and R. Szczesniak},
+title={Influence of lithium doping on the thermodynamic properties of graphene based superconductors},
+journal={J. Phys. Condens. Matter},
+volume={26},
+pages={255701},
+year={2014},
+url={http://stacks.iop.org/0953-8984/26/i=25/a=255701},
+doi={10.1088/0953-8984/26/25/255701}}
+
+@article{Durajski-20-2014,
+author="R. Szczesniak and A. P. Durajski",
+title="The Energy Gap in the (Hg1-xSnx)Ba2Ca2Cu3O8+y Superconductor",
+journal="J. Supercond. Nov. Magn.",
+year="2014",
+volume="27",
+pages="1363 - 1367",
+doi="10.1007/s10948-013-2472-1",
+url="https://doi.org/10.1007/s10948-013-2472-1"}
+
+@article{Durajski-19-2014,
+author = {A. P. Durajski and R. Szczesniak},
+title = {Estimation of the superconducting parameters for silane at high pressure},
+journal = {Mod. Phys. Lett. B},
+volume = {28},
+pages = {1450052},
+year = {2014},
+doi = {10.1142/S0217984914500523},
+URL = {https://www.worldscientific.com/doi/abs/10.1142/S0217984914500523}}
+
+@article{Durajski-18-2014,
+author = "R. Szczesniak and A. P. Durajski and P. W. Pach",
+title = "On the thermodynamic properties of the Rb3C60 superconductor",
+journal = "Cryogenics",
+volume = "61",
+pages = "38 - 42",
+year = "2014",
+doi = "10.1016/j.cryogenics.2014.02.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0011227514000277"}
+
+@article{Durajski-17-2014,
+author = "R. Szczesniak and D. Szczesniak and A. P. Durajski",
+title = "Thermodynamics of the superconducting phase in compressed GeH4(H2)2",
+journal = "Solid State Commun.",
+volume = "184",
+pages = "6 - 11",
+year = "2014",
+doi = "10.1016/j.ssc.2013.12.036",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109814000040"}
+
+@article{Durajski-16-2014,
+author = {M. W. Jarosik and A. P. Durajski},
+title = {Investigation of the superconducting phase in metallic hydrogen near the pressure of metallization},
+journal = {Mod. Phys. Lett. B},
+volume = {28},
+pages = {1450010},
+year = {2014},
+doi = {10.1142/S0217984914500109},
+URL = {https://www.worldscientific.com/doi/abs/10.1142/S0217984914500109}}
+  	
+@article{Durajski-15-2014,
+author={R. Szczesniak and A. P. Durajski},
+title={Superconducting state above the boiling point of liquid nitrogen in the GaH 3 compound},
+journal={Supercond. Sci. Technol.},
+volume={27},
+pages={015003},
+year={2014},
+doi={10.1088/0953-2048/27/1/015003},
+url={http://stacks.iop.org/0953-2048/27/i=1/a=015003}}	
+
+@article{Durajski-14-2014,
+author = "R. Szczesniak and A. P. Durajski and P. W. Pach",
+title = "Superconductivity in a-polonium at the reduced volume",
+journal = "J. Phys. Chem. Solids",
+volume = "75",
+pages = "224 - 229",
+year = "2014",
+doi = "10.1016/j.jpcs.2013.09.019",
+url = "http://www.sciencedirect.com/science/article/pii/S0022369713003302"}
+
+%%%%%%%%%%%%%% 2013 %%%%%%%%%%%%%%
+
+@article{Durajski-13-2013,
+author = "R. Szczesniak and A. P. Durajski",
+title = "The thermodynamic properties of the high-pressure superconducting state in the hydrogen-rich compounds",
+journal = "Solid State Sci.",
+volume = "25",
+pages = "45 - 54",
+year = "2013",
+doi = "10.1016/j.solidstatesciences.2013.07.023",
+url = "http://www.sciencedirect.com/science/article/pii/S1293255813002380"}
+
+@article{Durajski-12-2013,
+author = "R. Szczesniak and A. P. Durajski",
+title = "The high-pressure superconductivity in SiH4: The strong-coupling approach",
+journal = "Solid State Commun.",
+volume = "172",
+pages = "5 - 9",
+year = "2013",
+doi = "10.1016/j.ssc.2013.08.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109813003694"}
+  	
+@article{Durajski-11-2013,
+author={R. Szczesniak and A. P. Durajski and P. W. Pach},
+title={CaLi2 superconductor under the pressure of 100 GPa: the thermodynamic critical
+field and the specific heat},
+journal={Phys. Scripta},
+volume={88},
+number={2},
+pages={025704},
+year={2013},
+doi={10.1088/0031-8949/88/02/025704},
+url={http://stacks.iop.org/1402-4896/88/i=2/a=025704}}
+
+@article{Durajski-10-2013,
+author = "R. Szczesniak and A. P. Durajski and D. Szczesniak",
+title = "Study of the superconducting state in the Cmmm phase of GeH4 compound",
+journal = "Solid State Commun.",
+volume = "165",
+pages = "39 - 44",
+year = "2013",
+doi = "10.1016/j.ssc.2013.04.015",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109813001816"}
+
+@Article{Durajski-9-2013,
+author="R. Szczesniak and A. P. Durajski and P. W. Pach",
+title="The High Pressure Superconductivity of CaLi2 Compound: The Thermodynamic Properties",
+journal="J. Low Temp. Phys.",
+year="2013",
+volume="171",
+pages="769 - 778",
+doi="10.1007/s10909-012-0752-y",
+url="https://doi.org/10.1007/s10909-012-0752-y"}
+
+@article{Durajski-8-2013,
+author = "R. Szczesniak and A. P. Durajski",
+title = "The characterization of high-pressure superconducting state in Si2H6 compound: The strong-coupling description",
+journal = "J. Phys. Chem. Solids",
+volume = "74",
+pages = "641 - 646",
+year = "2013",
+doi = "10.1016/j.jpcs.2012.12.024",
+url = "http://www.sciencedirect.com/science/article/pii/S0022369712003903"}
+
+@article{Durajski-7-2013,
+author = "A. P. Durajski",
+title = "Study of thermodynamic properties of SiH4(H2)2 superconductor under high pressure",
+journal = "Physica C",
+volume = "485",
+pages = "145 - 148",
+year = "2013",
+doi = "10.1016/j.physc.2012.12.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453412004078"}
+
+@article{Durajski-6-2013,
+author = "R. Szczesniak and A. P. Durajski",
+title = "On the critical temperature and the energy gap in dense SiH4(H2)2 at 250GPa",
+journal = "Solid State Commun.",
+volume = "153",
+pages = "26 - 30",
+year = "2013",
+doi = "10.1016/j.ssc.2012.10.015",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109812005686"}
+
+%%%%%%%%%%%%%% 2012 %%%%%%%%%%%%%%
+
+@article{Durajski-5-2012,
+author = {A. P. Durajski and R. Szczesniak and M. W. Jarosik},
+title = {Properties of the superconducting state in compressed sulphur},
+journal = {Phase Transit},
+volume = {85},
+pages = {727 - 734},
+year  = {2012},
+doi = {10.1080/01411594.2012.658051},
+url = {https://doi.org/10.1080/01411594.2012.658051}}
+
+@article{Durajski-4-2012,
+author = "R. Szczesniak and A. P. Durajski",
+title = "The superconducting phase of calcium under the pressure at 200GPa: The strong-coupling description",
+journal = "Solid State Commun.",
+volume = "152",
+pages = "1018 - 1022",
+year = "2012",
+doi = "10.1016/j.ssc.2012.03.009",
+url = "http://www.sciencedirect.com/science/article/pii/S0038109812001469"}
+
+@article{Durajski-3-2012,
+author = {R. Szczesniak and A. P. Durajski and M. W. Jarosik},
+title = {Specific heat and thermodynamic critical field for calcium under the pressure at 120 GPa},
+journal = {Mod. Phys. Lett. B},
+volume = {26},
+pages = {1250050},
+year = {2012},
+doi = {10.1142/S0217984912500509},
+url = {https://www.worldscientific.com/doi/abs/10.1142/S0217984912500509}}
+
+@article{Durajski-2-2012,
+author="R. Szczesniak and A. P. Durajski",
+title="Thermodynamics of the Superconducting State in Calcium at 200 GPa",
+journal="J. Supercond. Nov. Magn.",
+year="2012",
+volume="25",
+pages="399-404",
+doi="10.1007/s10948-011-1326-y",
+url="https://doi.org/10.1007/s10948-011-1326-y"}
+
+@article{Durajski-1-2012,
+author = "R. Szczesniak and A. P. Durajski",
+title = "Superconductivity of calcium in phase VI",
+journal = "Physica C",
+volume = "472",
+pages = "15-20",
+year = "2012",
+doi = "10.1016/j.physc.2011.09.017",
+url = "http://www.sciencedirect.com/science/article/pii/S0921453411004850"}
