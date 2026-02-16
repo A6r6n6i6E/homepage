@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#777" aria-hidden="true">
-  <!-- ResearchGate RG monogram -->
-  <text x="4" y="17" font-family="Georgia, serif" font-size="14" font-weight="600">R</text>
-  <text x="13.5" y="8.5" font-family="Georgia, serif" font-size="8" font-weight="600">G</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <text x="5" y="17" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#777">R</text>
+  <text x="14.5" y="9" font-size="9" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#777">G</text>
 </svg>
