@@ -33,7 +33,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S2352492826009530},
 author = {J. Maksymiuk and G. Rotuski and R. Szczesniak and A. P. Durajski}}
 
 @article{Durajski-130-2026,
-  title = {Theoretical prediction of strong-coupling superconductivity in a hypothetical ${\mathrm{NaAlH}}_{3}$ phase at ambient pressure},
+  title = {Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure},
   author = {I. A. Wrona and Y. Li and R. Szczesniak and A. P. Durajski},
   journal = {Phys. Rev. B},
   volume = {113},
@@ -167,7 +167,7 @@ doi  ="10.1039/D4TC02905D",
 url  ="http://dx.doi.org/10.1039/D4TC02905D"}
 
 @article{Durajski-117-2024,
-title = {Prediction of high-${T}_{c}$ superconductivity under submegabar pressure in ternary actinium borohydrides},
+title = {Prediction of high-Tc superconductivity under submegabar pressure in ternary actinium borohydrides},
 author = {T. Gu and W. Cui and J. Hao and J. Shi and A. P. Durajski and H. Liu and Y. Li},
 journal = {Phys. Rev. B},
 volume = {110},
@@ -218,7 +218,7 @@ doi = {10.1021/acs.jpcc.3c07213},
 URL = {https://doi.org/10.1021/acs.jpcc.3c07213}}
 
 @article{Durajski-112-2024,
-title = {Prediction of high-${T}_{c}$ superconductivity in ternary actinium beryllium hydrides at low pressure},
+title = {Prediction of high-Tc superconductivity in ternary actinium beryllium hydrides at low pressure},
 author = {K. Gao and W. Cui and J. Shi and A. P. Durajski and J. Hao and S. Botti and M. A. L. Marques and Y. Li},
 journal = {Phys. Rev. B},
 volume = {109},
@@ -230,7 +230,7 @@ url = {https://link.aps.org/doi/10.1103/PhysRevB.109.014501}}
 %%%%%%%%%%%%%% 2023 %%%%%%%%%%%%%%
 
 @article{Durajski-111-2023,
-title = {Effect of doping on the phase stability and superconductivity in $\mathrm{La}{\mathrm{H}}_{10}$},
+title = {Effect of doping on the phase stability and superconductivity in LaH10},
 author = {Wu, Zepeng and Sun, Yang and Durajski, Artur P. and Zheng, Feng and Antropov, Vladimir and Ho, Kai-Ming and Wu, Shunqing},
 journal = {Phys. Rev. Mater.},
 volume = {7},
@@ -858,7 +858,7 @@ url = "http://www.sciencedirect.com/science/article/pii/S0038109816302848"}
 
 @article{Durajski-50-2016,
 author  = "Artur Durajski",
-title   = "Quantitative analysis of nonadiabatic effects in dense {H$_3$S} and {PH$_3$} superconductors",
+title   = "Quantitative analysis of nonadiabatic effects in dense {H3S} and {PH3} superconductors",
 journal = "Sci. Rep.",
 volume  = "6",
 pages   = "38570",
