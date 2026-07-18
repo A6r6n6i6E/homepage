@@ -1,6 +1,55 @@
 
 %%%%%%%%%%%%%% 2026 %%%%%%%%%%%%%%
 
+﻿@Article{Durajski-133-2026,
+author={Sagar, Rizwan Ur Rehman
+and Fazal, Muhammad Waseem
+and Durajski, Artur
+and Fan, Qining
+and Lu, Bruce
+and Khan, Muhammad Waqas
+and Mahmood, Nasir
+and Yu, Baozhi
+and Chen, Ying Ian},
+title={Diboron Carbon Current Collector for Stable Anode-Free Lithium Metal Batteries},
+journal={Nano Lett.},
+year={2026},
+volume={26},
+pages={7918-7926},
+doi={10.1021/acs.nanolett.6c01274},
+url={https://doi.org/10.1021/acs.nanolett.6c01274}}
+
+@article{Durajski-132-2026,
+    author = {Zhou, Zengguang and Cui, Wenwen and Yang, Xiuxian and Ding, Shicong and Xu, Weishuo and Shi, Jingming and Durajski, Artur P. and Sun, Ying and Liu, Hanyu and Li, Yinwei},
+    title = {Prediction of high-temperature superconductivity in lithium-doped thorium superhydrides under high pressures},
+    journal = {J. Mater. Chem. C},
+    volume = {14},
+    number = {26},
+    pages = {11530-11538},
+    year = {2026},
+    doi = {10.1039/d6tc01065b},
+    url = {https://doi.org/10.1039/d6tc01065b}}
+
+@article{Durajski-131-2026,
+title = {Tunable visible-light response of strained carbon-doped MoS2 monolayers for prospective color-vision-correction filters},
+journal = {Mater. Today Commun.},
+volume = {54},
+pages = {115564},
+year = {2026},
+doi = {https://doi.org/10.1016/j.mtcomm.2026.115564},
+url = {https://www.sciencedirect.com/science/article/pii/S2352492826009530},
+author = {Jolanta Maksymiuk and Grzegorz Rotuski and Radoslaw Szczesniak and Artur P. Durajski}}
+
+@article{Durajski-130-2026,
+  title = {Theoretical prediction of strong-coupling superconductivity in a hypothetical ${\mathrm{NaAlH}}_{3}$ phase at ambient pressure},
+  author = {Wrona, Izabela A. and Li, Yinwei and Szczesniak, Radoslaw and Durajski, Artur P.},
+  journal = {Phys. Rev. B},
+  volume = {113},
+  pages = {144511},
+  year = {2026},
+  doi = {10.1103/mhxb-8yqd},
+  url = {https://link.aps.org/doi/10.1103/mhxb-8yqd}}
+
 @article{Durajski-129-2026,
 author = {A. P. Durajski and P. Niegodajew and I. A. Wrona},
 title = {Strategic Screening of Ternary Hydrides for High-Temperature Superconductivity},
