@@ -2,15 +2,7 @@
 %%%%%%%%%%%%%% 2026 %%%%%%%%%%%%%%
 
 ﻿@Article{Durajski-133-2026,
-author={Sagar, R. U. R.
-and Fazal, M. W.
-and Durajski, A.
-and Fan, Q.
-and Lu, B.
-and Khan, M. W.
-and Mahmood, N.
-and Yu, B.
-and Chen, Y. I.},
+author={R. U. R. Sagar and M. W. Fazal and A. P. Durajski and Q. Fan and B. Lu and M. W. Khan and N. Mahmood and B. Yu and Y. I. Chen},
 title={Diboron Carbon Current Collector for Stable Anode-Free Lithium Metal Batteries},
 journal={Nano Lett.},
 year={2026},
@@ -20,7 +12,7 @@ doi={10.1021/acs.nanolett.6c01274},
 url={https://doi.org/10.1021/acs.nanolett.6c01274}}
 
 @article{Durajski-132-2026,
-    author = {Zhou, Z.and Cui, W. and Yang, X. and Ding, S. and Xu, W. and Shi, J. and Durajski, A. P. and Sun, Y. and Liu, H. and Li, Y.},
+    author = {Z. Zhou and W. Cui and X. Yang and S. Ding and W. Xu and J. Shi and A. P. Durajski and Y. Sun and H. Liu and Y. Li},
     title = {Prediction of high-temperature superconductivity in lithium-doped thorium superhydrides under high pressures},
     journal = {J. Mater. Chem. C},
     volume = {14},
@@ -42,7 +34,7 @@ author = {J. Maksymiuk and G. Rotuski and R. Szczesniak and A. P. Durajski}}
 
 @article{Durajski-130-2026,
   title = {Theoretical prediction of strong-coupling superconductivity in a hypothetical ${\mathrm{NaAlH}}_{3}$ phase at ambient pressure},
-  author = {Wrona, I. A. and Li, Y. and Szczesniak, R. and Durajski, A. P.},
+  author = {I. A. Wrona and Y. Li and R. Szczesniak and A. P. Durajski},
   journal = {Phys. Rev. B},
   volume = {113},
   pages = {144511},
