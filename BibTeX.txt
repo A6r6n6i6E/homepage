@@ -2,15 +2,15 @@
 %%%%%%%%%%%%%% 2026 %%%%%%%%%%%%%%
 
 ﻿@Article{Durajski-133-2026,
-author={Sagar, Rizwan Ur Rehman
-and Fazal, Muhammad Waseem
-and Durajski, Artur
-and Fan, Qining
-and Lu, Bruce
-and Khan, Muhammad Waqas
-and Mahmood, Nasir
-and Yu, Baozhi
-and Chen, Ying Ian},
+author={Sagar, R. U. R.
+and Fazal, M. W.
+and Durajski, A.
+and Fan, Q.
+and Lu, B.
+and Khan, M. W.
+and Mahmood, N.
+and Yu, B.
+and Chen, Y. I.},
 title={Diboron Carbon Current Collector for Stable Anode-Free Lithium Metal Batteries},
 journal={Nano Lett.},
 year={2026},
@@ -20,7 +20,7 @@ doi={10.1021/acs.nanolett.6c01274},
 url={https://doi.org/10.1021/acs.nanolett.6c01274}}
 
 @article{Durajski-132-2026,
-    author = {Zhou, Zengguang and Cui, Wenwen and Yang, Xiuxian and Ding, Shicong and Xu, Weishuo and Shi, Jingming and Durajski, Artur P. and Sun, Ying and Liu, Hanyu and Li, Yinwei},
+    author = {Zhou, Z.and Cui, W. and Yang, X. and Ding, S. and Xu, W. and Shi, J. and Durajski, A. P. and Sun, Y. and Liu, H. and Li, Y.},
     title = {Prediction of high-temperature superconductivity in lithium-doped thorium superhydrides under high pressures},
     journal = {J. Mater. Chem. C},
     volume = {14},
@@ -38,11 +38,11 @@ pages = {115564},
 year = {2026},
 doi = {https://doi.org/10.1016/j.mtcomm.2026.115564},
 url = {https://www.sciencedirect.com/science/article/pii/S2352492826009530},
-author = {Jolanta Maksymiuk and Grzegorz Rotuski and Radoslaw Szczesniak and Artur P. Durajski}}
+author = {J. Maksymiuk and G. Rotuski and R. Szczesniak and A. P. Durajski}}
 
 @article{Durajski-130-2026,
   title = {Theoretical prediction of strong-coupling superconductivity in a hypothetical ${\mathrm{NaAlH}}_{3}$ phase at ambient pressure},
-  author = {Wrona, Izabela A. and Li, Yinwei and Szczesniak, Radoslaw and Durajski, Artur P.},
+  author = {Wrona, I. A. and Li, Y. and Szczesniak, R. and Durajski, A. P.},
   journal = {Phys. Rev. B},
   volume = {113},
   pages = {144511},
